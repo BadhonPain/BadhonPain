@@ -20,6 +20,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+## ⚔️ Competitive Programming
+
+<div align="left">
+
+| Platform       | Solved | Profile |
+|----------------|--------|---------|
+| **Codeforces** | 82   | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) |
+| **HackerRank** | 10   | [Badhon Pain](https://www.hackerrank.com/profile/badhonpain48) |
+
+</div>
+
+---
+
 
 ## 📈 GitHub Stats
 ![Badhon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BadhonPain&show_icons=true&theme=radical)
