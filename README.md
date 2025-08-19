@@ -26,7 +26,7 @@
 
 | Platform       | Solved | Profile |
 |----------------|--------|---------|
-| **Codeforces** | 86   | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) |
+| **Codeforces** | 89   | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) |
 | **HackerRank** | 10   | [Badhon Pain](https://www.hackerrank.com/profile/badhonpain48) |
 
 </div>
