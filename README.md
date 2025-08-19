@@ -15,9 +15,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![iGraphics.h](https://img.shields.io/badge/iGraphics-FF6600?style=flat)
-![iSound.h](https://img.shields.io/badge/iSound-FF6600?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![iGraphics.h](https://img.shields.io/badge/iGraphics-FF6600?style=flat)
 
 ---
 ## ⚔️ Competitive Programming
@@ -26,7 +25,7 @@
 
 | Platform       | Solved | Profile |
 |----------------|--------|---------|
-| **Codeforces** | 89   | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) |
+| **Codeforces** | 90   | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) |
 | **HackerRank** | 10   | [Badhon Pain](https://www.hackerrank.com/profile/badhonpain48) |
 
 </div>
