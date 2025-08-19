@@ -40,9 +40,5 @@
 
 ---
 
-## 🔥 Recent Activity
-```mermaid
-graph TD;
-    A[Write Code] --> B[Commit Changes];
-    B --> C[Push to GitHub];
-    C --> D[Project Updates & Deployments];
+
+![Contribution Snake](https://github.com/BadhonPain/BadhonPain/blob/output/github-contribution-grid-snake.svg)
