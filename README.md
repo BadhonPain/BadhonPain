@@ -40,5 +40,11 @@
 
 ---
 
+## 🕒 Coding Analytics
 
-![Contribution Snake](https://github.com/BadhonPain/BadhonPain/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+[![Coding Stats](https://github-readme-activity-graph.vercel.app/graph?username=BadhonPain&theme=react-dark&hide_border=true&area=true&custom_title=My%20Coding%20Heatmap)](https://github.com/BadhonPain)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BadhonPain&theme=holi-theme&fire=FF0000&currStreakLabel=FF0000)](https://git.io/streak-stats)
+
+</div>
