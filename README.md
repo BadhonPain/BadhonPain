@@ -21,15 +21,16 @@
 
 ## ⚔️ Competitive Programming Arena
 
-<div align="left">
+<div align="center">
 
-| Platform       | Solved | Profile |
-|----------------|--------|---------|
-| **Codeforces** | 100   | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) |
-| **HackerRank** | 10   | [Badhon Pain](https://www.hackerrank.com/profile/badhonpain48) |
-| **CodeChef**   | 13   | [Badhon Pain](https://www.hackerrank.com/profile/bimrissho_23) |
+| Platform | Profile | Solved | Rating |
+|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="40" /> <br> **Codeforces** | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) | [![Codeforces Solved](https://img.shields.io/badge/dynamic/json?label=solved&query=result&url=https://codeforces-badge.vercel.app/api/Solved/Badhon_Pain&color=blueviolet&logo=codeforces)](https://codeforces.com/profile/Badhon_Pain) | [![Codeforces Rating](https://img.shields.io/badge/dynamic/json?label=rating&query=result&url=https://codeforces-badge.vercel.app/api/Rating/Badhon_Pain&color=red&logo=codeforces)](https://codeforces.com/profile/Badhon_Pain) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" /> <br> **HackerRank** | [Badhon_Pain](https://www.hackerrank.com/profile/badhonpain48) | [![HackerRank](https://img.shields.io/badge/dynamic/json?label=solved&query=scores%5B0%5D.score&url=https://api.github.com/users/BadhonPain&color=00EA64&logo=hackerrank)](https://www.hackerrank.com/profile/badhonpain48) | [![HackerRank](https://img.shields.io/badge/6%20Star-Gold-yellow?logo=hackerrank)](https://www.hackerrank.com/profile/badhonpain48) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="40" /> <br> **CodeChef** | [bimrissho_23](https://www.codechef.com/users/bimrissho_23) | [![CodeChef Solved](https://img.shields.io/badge/dynamic/json?label=solved&query=result&url=https://codechef-badge.vercel.app/api/Solved/bimrissho_23&color=7B5A43&logo=codechef)](https://www.codechef.com/users/bimrissho_23) | [![CodeChef Rating](https://img.shields.io/badge/dynamic/json?label=rating&query=result&url=https://codechef-badge.vercel.app/api/Rating/bimrissho_23&color=AA9B84&logo=codechef)](https://www.codechef.com/users/bimrissho_23) |
 
 </div>
+
 
 ---
 
