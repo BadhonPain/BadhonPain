@@ -18,19 +18,24 @@
 </p>
 
 ---
-
-## ⚔️ Competitive Programming Arena
+## <img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" width="30"> Competitive Programming Arena
 
 <div align="center">
 
-| Platform | Profile | Solved | Rating |
-|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="40" /> <br> **Codeforces** | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) | [![Codeforces Solved](https://img.shields.io/badge/dynamic/json?label=solved&query=result&url=https://codeforces-badge.vercel.app/api/Solved/Badhon_Pain&color=blueviolet&logo=codeforces)](https://codeforces.com/profile/Badhon_Pain) | [![Codeforces Rating](https://img.shields.io/badge/dynamic/json?label=rating&query=result&url=https://codeforces-badge.vercel.app/api/Rating/Badhon_Pain&color=red&logo=codeforces)](https://codeforces.com/profile/Badhon_Pain) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" /> <br> **HackerRank** | [Badhon_Pain](https://www.hackerrank.com/profile/badhonpain48) | [![HackerRank](https://img.shields.io/badge/dynamic/json?label=solved&query=scores%5B0%5D.score&url=https://api.github.com/users/BadhonPain&color=00EA64&logo=hackerrank)](https://www.hackerrank.com/profile/badhonpain48) | [![HackerRank](https://img.shields.io/badge/6%20Star-Gold-yellow?logo=hackerrank)](https://www.hackerrank.com/profile/badhonpain48) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="40" /> <br> **CodeChef** | [bimrissho_23](https://www.codechef.com/users/bimrissho_23) | [![CodeChef Solved](https://img.shields.io/badge/dynamic/json?label=solved&query=result&url=https://codechef-badge.vercel.app/api/Solved/bimrissho_23&color=7B5A43&logo=codechef)](https://www.codechef.com/users/bimrissho_23) | [![CodeChef Rating](https://img.shields.io/badge/dynamic/json?label=rating&query=result&url=https://codechef-badge.vercel.app/api/Rating/bimrissho_23&color=AA9B84&logo=codechef)](https://www.codechef.com/users/bimrissho_23) |
+| Metric | Codeforces | HackerRank | CodeChef |
+|:-------|:----------:|:----------:|:--------:|
+| Problems Solved | **100** | **10** | **13** |
+| Profile | [Badhon_Pain]() | [Badhon Pain]() | [bimrissho_23]() |
+| Current Rating | `736` | `-` | `-` |
+
+<br>
+
+[![Achievement Progress](https://img.shields.io/badge/Total_Solved-123-ff69b4?style=flat-square&logo=gamejolt&logoColor=white)](https://github.com/BadhonPain)
+[![Update Streak](https://img.shields.io/badge/Update_Streak-10_days-00ff88?style=flat-square&logo=reverbnation&logoColor=white)](https://github.com/BadhonPain)
+
+**🕹️ Last Stats Refresh:** ` • 2025-08-20 • 11:21:48 UTC`
 
 </div>
-
 
 ---
 
