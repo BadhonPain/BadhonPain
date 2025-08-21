@@ -22,11 +22,11 @@
 
 <div align="center">
 
-| Metric | Codeforces | HackerRank | CodeChef |
-|:-------|:----------:|:----------:|:--------:|
-| Problems Solved | **113** | **19** | **16** |
-| Profile | [Badhon_Pain]() | [Badhon Pain]() | [bimrissho_23]() |
-| Current Rating | `736` | `-` | `-` |
+| Metric | Codeforces | HackerRank | CodeChef | AtCoder |
+|:-------|:----------:|:----------:|:--------:|:--------:|
+| Problems Solved | **113** | **19** | **16** | **02** |
+| Profile | [Badhon_Pain]() | [Badhon Pain]() | [bimrissho_23]() | [Badhon_Pain]() |
+| Current Rating | `736` | `-` | `-` |  `-` |
 
 <br>
 
