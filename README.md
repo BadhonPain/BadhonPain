@@ -18,22 +18,23 @@
 </p>
 
 ---
-## <img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" width="30"> Competitive Programming Arena
+## ⚔️ Competitive Programming Arena
 
 <div align="center">
 
-| Metric | Codeforces | HackerRank | CodeChef | AtCoder |
-|:-------|:----------:|:----------:|:--------:|:--------:|
-| Problems Solved | **113** | **19** | **16** | **02** |
-| Profile | [Badhon_Pain]() | [Badhon Pain]() | [bimrissho_23]() | [Badhon_Pain]() |
-| Current Rating | `736` | `-` | `-` |  `-` |
+| Platform | Problems Solved | Profile | Current Rating |
+|:--------:|:---------------:|:-------:|:--------------:|
+| **Codeforces** | **113** | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) | `736` |
+| **HackerRank** | **19** | [Badhon Pain](https://www.hackerrank.com/profile/badhonpain48) | `-` |
+| **CodeChef** | **16** | [bimrissho_23](https://www.codechef.com/users/bimrissho_23) | `-` |
+| **AtCoder** | **02** | [Badhon_Pain](https://atcoder.jp/users/Badhon_Pain) | `-` |
 
 <br>
 
-[![Achievement Progress](https://img.shields.io/badge/Total_Solved-148-ff69b4?style=flat-square&logo=gamejolt&logoColor=white)](https://github.com/BadhonPain)
+[![Achievement Progress](https://img.shields.io/badge/Total_Solved-150-ff69b4?style=flat-square&logo=gamejolt&logoColor=white)](https://github.com/BadhonPain)
 [![Update Streak](https://img.shields.io/badge/Update_Streak-12_days-00ff88?style=flat-square&logo=reverbnation&logoColor=white)](https://github.com/BadhonPain)
 
-**🕹️ Last Stats Refresh:** ` • 2025-08-22 • 03:02:23 UTC`
+**🕹️ Last Stats Refresh:** ` • 2025-08-22 • 03:17:29 UTC`
 
 </div>
 
