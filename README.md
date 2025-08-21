@@ -24,16 +24,16 @@
 
 | Metric | Codeforces | HackerRank | CodeChef |
 |:-------|:----------:|:----------:|:--------:|
-| Problems Solved | **111** | **19** | **16** |
+| Problems Solved | **113** | **19** | **16** |
 | Profile | [Badhon_Pain]() | [Badhon Pain]() | [bimrissho_23]() |
 | Current Rating | `736` | `-` | `-` |
 
 <br>
 
-[![Achievement Progress](https://img.shields.io/badge/Total_Solved-146-ff69b4?style=flat-square&logo=gamejolt&logoColor=white)](https://github.com/BadhonPain)
+[![Achievement Progress](https://img.shields.io/badge/Total_Solved-148-ff69b4?style=flat-square&logo=gamejolt&logoColor=white)](https://github.com/BadhonPain)
 [![Update Streak](https://img.shields.io/badge/Update_Streak-12_days-00ff88?style=flat-square&logo=reverbnation&logoColor=white)](https://github.com/BadhonPain)
 
-**🕹️ Last Stats Refresh:** ` • 2025-08-22 • 02:01:12 UTC`
+**🕹️ Last Stats Refresh:** ` • 2025-08-22 • 03:02:23 UTC`
 
 </div>
 
