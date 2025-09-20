@@ -58,7 +58,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BadhonPain&layout=compact&theme=radical&hide_border=true)
 
 [![Coding Stats](https://github-readme-activity-graph.vercel.app/graph?username=BadhonPain&theme=react-dark&hide_border=true&area=true&custom_title=My%20Commit%20Graph)](https://github.com/BadhonPain)
-[![GitHub Streak](https://streak-stats.demolab.com?user=BadhonPain&theme=holi-theme&fire=FF0000&currStreakLabel=FF0000&hide_border=true)](https://git.io/streak-stats)
+
 
 </div>
 
