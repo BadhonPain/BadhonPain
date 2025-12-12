@@ -24,17 +24,17 @@
 
 | Platform | Problems Solved | Profile | Current Rating |
 |:--------:|:---------------:|:-------:|:--------------:|
-| **Codeforces** | **122** | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) | `833` |
+| **Codeforces** | **136** | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) | `833` |
 | **HackerRank** | **19** | [Badhon Pain](https://www.hackerrank.com/profile/badhonpain48) | `-` |
 | **CodeChef** | **19** | [bimrissho_23](https://www.codechef.com/users/bimrissho_23) | `-` |
 | **AtCoder** | **02** | [Badhon_Pain](https://atcoder.jp/users/Badhon_Pain) | `-` |
 
 <br>
 
-[![Achievement Progress](https://img.shields.io/badge/Total_Solved-162-ff69b4?style=flat-square&logo=gamejolt&logoColor=white)](https://github.com/BadhonPain)
+[![Achievement Progress](https://img.shields.io/badge/Total_Solved-176-ff69b4?style=flat-square&logo=gamejolt&logoColor=white)](https://github.com/BadhonPain)
 [![Update Streak](https://img.shields.io/badge/Update_Streak-03_days-00ff88?style=flat-square&logo=reverbnation&logoColor=white)](https://github.com/BadhonPain)
 
-**🕹️ Last Stats Refresh:** ` • 2025-09-03 • 01:04:04 UTC `
+**🕹️ Last Stats Refresh:** ` • 2025-12-12 • 22:06:04 UTC `
 
 </div>
 
