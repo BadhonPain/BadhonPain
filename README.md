@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Comic+Neue&weight=800&size=26&duration=4000&pause=900&color=E7C4F2&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Badhon;BUET+CSE+Undergrad+Student;Competitive+Programmer;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Comic+Neue&weight=800&size=26&duration=4000&pause=900&color=E7C4F2&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Badhon;BUET+CSE+Undergrad+Student;Competitive+Programmer;Problem+Solver;Open Source Builder" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -24,17 +24,18 @@
 
 | Platform | Problems Solved | Profile | Current Rating |
 |:--------:|:---------------:|:-------:|:--------------:|
-| **Codeforces** | **177** | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) | `895` |
-| **HackerRank** | **19** | [Badhon Pain](https://www.hackerrank.com/profile/badhonpain48) | `-` |
+| **Codeforces** | **195** | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) | `837(max 896)` |
+| **HackerRank** | **50+** | [Badhon Pain](https://www.hackerrank.com/profile/badhonpain48) | `-` |
 | **CodeChef** | **19** | [bimrissho_23](https://www.codechef.com/users/bimrissho_23) | `-` |
-| **AtCoder** | **02** | [Badhon_Pain](https://atcoder.jp/users/Badhon_Pain) | `-` |
+| **AtCoder** | **05** | [Badhon_Pain](https://atcoder.jp/users/Badhon_Pain) | `-` |
+| **LeetCode** | **54** | - | `-` |
 
 <br>
 
-[![Achievement Progress](https://img.shields.io/badge/Total_Solved-217-ff69b4?style=flat-square&logo=gamejolt&logoColor=white)](https://github.com/BadhonPain)
-[![Update Streak](https://img.shields.io/badge/Update_Streak-08_days-00ff88?style=flat-square&logo=reverbnation&logoColor=white)](https://github.com/BadhonPain)
+[![Achievement Progress](https://img.shields.io/badge/Total_Solved-323+-ff69b4?style=flat-square&logo=gamejolt&logoColor=white)](https://github.com/BadhonPain)
+[![Update Streak](https://img.shields.io/badge/Update_Streak-00_days-00ff88?style=flat-square&logo=reverbnation&logoColor=white)](https://github.com/BadhonPain)
 
-**🕹️ Last Stats Refresh:** ` • 2025-12-31 • 08:46:09 UTC `
+**🕹️ Last Stats Refresh:** ` • 2026-05-27 • 08:59:36 UTC `
 
 </div>
 
