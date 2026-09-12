@@ -49,24 +49,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![iGraphics.h](https://img.shields.io/badge/iGraphics-FF6600?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-<img 
-  src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
-  alt="HTML Badge"
-/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> </p>
 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Badhon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BadhonPain&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BadhonPain&layout=compact&theme=radical&hide_border=true)
-
-[![Coding Stats](https://github-readme-activity-graph.vercel.app/graph?username=BadhonPain&theme=react-dark&hide_border=true&area=true&custom_title=My%20Commit%20Graph)](https://github.com/BadhonPain)
-
-
-</div>
-
----
