@@ -1,56 +1,54 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Comic+Neue&weight=800&size=26&duration=4000&pause=900&color=E7C4F2&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Badhon;BUET+CSE+Undergrad+Student;Competitive+Programmer;Problem+Solver;Open+Source+Builder" alt="Typing SVG" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Badhon" src="dark_mode.svg">
+</picture>
 
 <p align="center">
-  <a href="https://linkedin.com/in/badhon-pain-634341378">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://facebook.com/share/1KyWzuuKhY/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://youtube.com/@thursty_pain_2022">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.threads.net/@mr_pain_102">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
-  </a>
+  <a href="https://linkedin.com/in/badhon-pain-634341378"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=22d3ee" alt="LinkedIn"></a>
+  <a href="https://facebook.com/share/1KyWzuuKhY/"><img src="https://img.shields.io/badge/Facebook-161b22?style=flat-square&logo=facebook&logoColor=22d3ee" alt="Facebook"></a>
+  <a href="https://youtube.com/@thursty_pain_2022"><img src="https://img.shields.io/badge/YouTube-161b22?style=flat-square&logo=youtube&logoColor=22d3ee" alt="YouTube"></a>
+  <a href="https://www.threads.net/@mr_pain_102"><img src="https://img.shields.io/badge/Threads-161b22?style=flat-square&logo=threads&logoColor=22d3ee" alt="Threads"></a>
 </p>
 
----
-## ⚔️ Competitive Programming Arena
+## Recent Projects
+
+<table>
+  <tr>
+    <td><a href="https://github.com/BadhonPain/Loge_Achi_dot_com"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BadhonPain&repo=Loge_Achi_dot_com&theme=tokyonight&title_color=22d3ee&bg_color=0d1117&hide_border=true" width="400"></a></td>
+    <td><a href="https://github.com/BadhonPain/Bazar-Dor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BadhonPain&repo=Bazar-Dor&theme=tokyonight&title_color=22d3ee&bg_color=0d1117&hide_border=true" width="400"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/BadhonPain/DSA_Genesis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BadhonPain&repo=DSA_Genesis&theme=tokyonight&title_color=22d3ee&bg_color=0d1117&hide_border=true" width="400"></a></td>
+    <td><a href="https://github.com/BadhonPain/AlgoVista"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BadhonPain&repo=AlgoVista&theme=tokyonight&title_color=22d3ee&bg_color=0d1117&hide_border=true" width="400"></a></td>
+  </tr>
+</table>
+
+## Competitive Programming
 
 <div align="center">
 
-| Platform | Problems Solved | Profile | Current Rating |
-|:--------:|:---------------:|:-------:|:--------------:|
-| **Codeforces** | **195** | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) | `837(max 896)` |
+| Platform | Solved | Profile | Rating |
+|:--------:|:------:|:-------:|:------:|
+| **Codeforces** | **195** | [Badhon_Pain](https://codeforces.com/profile/Badhon_Pain) | `837 (max 896)` |
 | **HackerRank** | **50+** | [Badhon Pain](https://www.hackerrank.com/profile/badhonpain48) | `-` |
 | **CodeChef** | **19** | [bimrissho_23](https://www.codechef.com/users/bimrissho_23) | `-` |
-| **AtCoder** | **05** | [Badhon_Pain](https://atcoder.jp/users/Badhon_Pain) | `-` |
+| **AtCoder** | **5** | [Badhon_Pain](https://atcoder.jp/users/Badhon_Pain) | `-` |
 | **LeetCode** | **54** | - | `-` |
 
-<br>
-
-[![Achievement Progress](https://img.shields.io/badge/Total_Solved-323+-ff69b4?style=flat-square&logo=gamejolt&logoColor=white)](https://github.com/BadhonPain)
-[![Update Streak](https://img.shields.io/badge/Update_Streak-00_days-00ff88?style=flat-square&logo=reverbnation&logoColor=white)](https://github.com/BadhonPain)
-
-**🕹️ Last Stats Refresh:** ` • 2026-05-27 • 08:59:36 UTC `
+![Total Solved](https://img.shields.io/badge/Total_Solved-323+-22d3ee?style=flat-square)
 
 </div>
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
-**Languages & Tools:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![iGraphics.h](https://img.shields.io/badge/iGraphics-FF6600?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> </p>
-
-
----
-
+<p>
+  <img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=22d3ee">
+  <img src="https://img.shields.io/badge/C++-161b22?style=flat-square&logo=cplusplus&logoColor=22d3ee">
+  <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=22d3ee">
+  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=22d3ee">
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=22d3ee">
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=22d3ee">
+  <img src="https://img.shields.io/badge/Rust-161b22?style=flat-square&logo=rust&logoColor=22d3ee">
+  <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=22d3ee">
+</p>
