@@ -6,15 +6,15 @@ art = open("ascii-art.txt", encoding="utf-8").read().splitlines()
 stats = json.load(open("stats.json")) if os.path.exists("stats.json") else {}
 
 FS, CW, LH = 7, 4.2, 8.4
-PFS, PCW, PLH, PW = 13, 7.8, 22, 50
-W = 985
+PFS, PCW, PLH, PW = 16, 8.8, 20, 50
+W = 1100
 aw = max(map(len, art)) * CW
 px = int(15 + aw + 35)
 H = int(len(art) * LH + 40)
 
 themes = {
-    "dark_mode.svg": dict(bg="#0d1117", fg="#c9d1d9", ac="#22d3ee", mu="#4b5563", hi="#a5f3fc", lo="#164e63"),
-    "light_mode.svg": dict(bg="#f6f8fa", fg="#24292f", ac="#0e7490", mu="#9ca3af", hi="#0e7490", lo="#a8b3bd"),
+    "dark_mode.svg": dict(bg="#161b22", fg="#c9d1d9", key="#ffa657", val="#a5d6ff", cc="#616e7f", add="#3fb950", dele="#f85149", ac="#22d3ee", hi="#a5f3fc", lo="#164e63"),
+    "light_mode.svg": dict(bg="#f6f8fa", fg="#24292f", key="#953800", val="#0a3069", cc="#c2cfde", add="#1a7f37", dele="#cf222e", ac="#0e7490", hi="#0e7490", lo="#a8b3bd"),
 }
 
 def n(k):
@@ -51,27 +51,34 @@ def build(name, t):
     last = (px, y)
     for r in rows:
         if r[0] == "gap":
-            y += PLH // 2
+            y += PLH
             continue
         if r[0] == "head":
             title = r[1]
-            out.append(
-                f'<text x="{px}" y="{y}" font-size="{PFS}"><tspan fill="{t["fg"]}" font-weight="bold">{escape(title)}</tspan>'
-                f'<tspan fill="{t["mu"]}"> {"-" * (PW - len(title) - 1)}</tspan></text>'
-            )
-            last = (px + PW * PCW, y)
+            line = f'<tspan fill="{t["fg"]}">{escape(title)}</tspan><tspan fill="{t["cc"]}"> {"-" * (PW - len(title) - 1)}</tspan>'
         else:
-            k, v = r[1], r[2]
-            dots = "." * max(2, PW - len(k) - len(v) - 2)
-            out.append(
-                f'<text x="{px}" y="{y}" font-size="{PFS}"><tspan fill="{t["ac"]}">{escape(k)}</tspan>'
-                f'<tspan fill="{t["mu"]}"> {dots} </tspan><tspan fill="{t["fg"]}">{escape(v)}</tspan></text>'
-            )
-            last = (px + PW * PCW, y)
+            if r[0] == "loc" or r[1] == "Lines of Code":
+                a, d, l = n("add"), n("del"), n("loc")
+                k = "Lines of Code:"
+                plain = f"{l} ({a}++, {d}--)"
+                v = (
+                    f'<tspan fill="{t["val"]}">{l} (</tspan>'
+                    f'<tspan fill="{t["add"]}">{a}++</tspan>'
+                    f'<tspan fill="{t["val"]}">, </tspan>'
+                    f'<tspan fill="{t["dele"]}">{d}--</tspan>'
+                    f'<tspan fill="{t["val"]}">)</tspan>'
+                )
+            else:
+                k, plain = r[1] + ":", r[2]
+                v = f'<tspan fill="{t["val"]}">{escape(plain)}</tspan>'
+            dots = "." * max(2, PW - len(k) - len(plain) - 2)
+            line = f'<tspan fill="{t["key"]}">{escape(k)}</tspan><tspan fill="{t["cc"]}"> {dots} </tspan>{v}'
+        out.append(f'<text x="{px}" y="{y}" font-size="{PFS}" fill="{t["fg"]}">{line}</text>')
+        last = (px + PW * PCW, y)
         y += PLH
     out.append(f'<rect class="c" x="{last[0] + 6:.0f}" y="{last[1] - 11}" width="8" height="14" fill="{t["ac"]}"/>')
     out.append("</svg>")
     open(name, "w", encoding="utf-8").write("".join(out))
 
-for n, t in themes.items():
-    build(n, t)
+for name, t in themes.items():
+    build(name, t)
